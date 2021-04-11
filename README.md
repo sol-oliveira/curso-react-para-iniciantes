@@ -1,3 +1,3 @@
 # curso-react-para-iniciantes
 
-link para projeto: [aqui] https://eznnh.csb.app/
+link para projeto: https://eznnh.csb.app/
