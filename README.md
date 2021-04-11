@@ -1,2 +1,3 @@
 # curso-react-para-iniciantes
-Created with CodeSandbox
+
+link para projeto: [aqui] https://eznnh.csb.app/
